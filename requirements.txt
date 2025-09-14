@@ -1,0 +1,27 @@
+# InDrive AI Analytics Platform - Dependencies
+# Python 3.8+ required
+
+# Core Framework
+streamlit
+streamlit-folium
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+plotly
+folium
+matplotlib
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Performance & Utilities
+python-dateutil
+pytz
+
+# Optional (for better performance)
+numba
+joblib
